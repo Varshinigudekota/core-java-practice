@@ -22,9 +22,4 @@ public static void main(String[]args) {
 	whileloop obj=new whileloop();
 	obj.findNeonNumber(9);
 }				
-}				
-					
-					
-					
-		
-	
+}
