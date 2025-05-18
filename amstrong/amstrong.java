@@ -16,13 +16,10 @@ public class amstrong {
 		else {
 			System.out.println(num1+ " is not amstrong number");
 		}
-		
-	
 	return num1;
-}
+	}
 	public static void main(String [] args)
 	{
-		
 		amstrong obj=new amstrong();
 		obj.amstrongNumber(153);
 	}
